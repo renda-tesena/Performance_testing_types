@@ -9,7 +9,7 @@ export let options = {
       target: 2,
     },
     {
-      duration: "5m",
+      duration: "2m",
       target: 3,
     },
     {
