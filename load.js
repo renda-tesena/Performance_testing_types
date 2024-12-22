@@ -5,12 +5,12 @@ import { sleep } from "k6";
 export let options = {
   stages: [
     {
-      duration: "10s",
-      target: 2,
+      duration: "30s",
+      target: 240,
     },
     {
-      duration: "2m",
-      target: 3,
+      duration: "290s",
+      target: 240,
     },
     {
       duration: "10s",
